@@ -3,3 +3,4 @@ npm-tests/
 .vscode/
 
 .npmignore
+.mini-scanner-min.js
