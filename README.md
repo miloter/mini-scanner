@@ -13,7 +13,7 @@ Blanks (space, horizontal and vertical tab, form feed).
     Unknown character.
 In case of ambiguity, priority is established
 by the order given above from top to bottom.
-
+It is a stripped-down version of the original scanner, in which whitespace is ignored by default and comment syntax is not supported.
 ## Note:
 mini-scanner is an ESM module so you will need to add to your package.json: "type": "module"
 

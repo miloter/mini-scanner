@@ -1,6 +1,6 @@
 {
   "name": "@miloter/mini-scanner",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "main": "mini-scanner.js",
   "description": "Lexical analyzer for texts in memory",
   "keywords": [
